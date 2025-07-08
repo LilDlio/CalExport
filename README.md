@@ -118,6 +118,16 @@ The extension uses the following permissions:
 
 ---
 
+## 💌 Author
+
+> Made with ❤️ by [Captain D]
+
+If you find this helpful, feel free to ⭐️ the project or suggest improvements!
+
+My contact: ledungg.contact@gmail.com
+
+---
+
 ## 📜 License
 
 ```yaml
