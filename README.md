@@ -129,9 +129,9 @@ My contact: ledungg.contact@gmail.com
 ---
 
 ## 📜 License
+[MIT License](https://github.com/LilDlio/CalExport/blob/main/LICENSE)
 
 ```yaml
-MIT License
-
 Copyright © 2025 Captain D
 ```
+
